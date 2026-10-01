@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "0.2.0",
+  "versionCode": 3,
+  "versionName": "0.2.1",
   "apkUrl": "https://todit.web.app/todit.apk",
-  "notes": "업무 화면을 농장이와 같은 레이아웃으로 — 웹: 업무 목록 + 일정 달력 / 폰: 일정 목록·달력 전환, 완료 버튼과 되돌리기, 날짜 선택기"
+  "notes": "새 앱 아이콘(주황 말풍선 + 체크)과 favicon"
 }
