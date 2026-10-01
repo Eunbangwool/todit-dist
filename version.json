@@ -1,6 +1,6 @@
 {
-  "versionCode": 0,
-  "versionName": "0.0.0",
+  "versionCode": 1,
+  "versionName": "0.1.0",
   "apkUrl": "https://todit.web.app/todit.apk",
-  "notes": ""
+  "notes": "투딧 첫 배포 — 카톡 업무방 수집·분류·업무 보드, 인앱 업데이트(OTA) 포함"
 }
