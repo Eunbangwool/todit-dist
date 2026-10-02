@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "0.2.2",
+  "versionCode": 5,
+  "versionName": "0.2.3",
   "apkUrl": "https://todit.web.app/todit.apk",
-  "notes": "업데이트 안내가 앱을 다시 열 때도 뜨도록 개선, 설정에 버전과 「업데이트 확인」 추가"
+  "notes": "알림 기능 — 카톡에서 새 업무가 등록되면 알림, 매일 아침 7시 오늘·내일 일정 알림. 설정 > 알림에서 상태 확인"
 }
