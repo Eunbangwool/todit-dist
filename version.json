@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "0.2.5",
+  "versionCode": 8,
+  "versionName": "0.2.6",
   "apkUrl": "https://todit.web.app/todit.apk",
-  "notes": "홈 화면 위젯, 담당자 할당·내 담당 필터, 멤버 이름 변경(소유자), 기한 없는 업무에 기한 추가"
+  "notes": "「시너지」 탭 추가 — 카톡에서 시너지가 붙은 메시지는 시너지 일정으로 들어옵니다"
 }
