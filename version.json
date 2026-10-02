@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "0.2.1",
+  "versionCode": 4,
+  "versionName": "0.2.2",
   "apkUrl": "https://todit.web.app/todit.apk",
-  "notes": "새 앱 아이콘(주황 말풍선 + 체크)과 favicon"
+  "notes": "업데이트 안내가 앱을 다시 열 때도 뜨도록 개선, 설정에 버전과 「업데이트 확인」 추가"
 }
