@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "0.2.4",
+  "versionCode": 7,
+  "versionName": "0.2.5",
   "apkUrl": "https://todit.web.app/todit.apk",
-  "notes": "업무를 완료하면 카톡방에 [업무완료] 메시지 전송, 되돌리기 알림을 좌우로 밀어서 닫기"
+  "notes": "홈 화면 위젯, 담당자 할당·내 담당 필터, 멤버 이름 변경(소유자), 기한 없는 업무에 기한 추가"
 }
