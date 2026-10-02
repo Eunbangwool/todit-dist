@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "0.2.6",
+  "versionCode": 9,
+  "versionName": "0.2.7",
   "apkUrl": "https://todit.web.app/todit.apk",
-  "notes": "「시너지」 탭 추가 — 카톡에서 시너지가 붙은 메시지는 시너지 일정으로 들어옵니다"
+  "notes": "목록 날짜별 묶음 · 임박 색(빨강→파랑) · D-Day 표시 · 작성자/담당자 구분 · 이름 성재/수린 정리"
 }
