@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "0.2.3",
+  "versionCode": 6,
+  "versionName": "0.2.4",
   "apkUrl": "https://todit.web.app/todit.apk",
-  "notes": "알림 기능 — 카톡에서 새 업무가 등록되면 알림, 매일 아침 7시 오늘·내일 일정 알림. 설정 > 알림에서 상태 확인"
+  "notes": "업무를 완료하면 카톡방에 [업무완료] 메시지 전송, 되돌리기 알림을 좌우로 밀어서 닫기"
 }
