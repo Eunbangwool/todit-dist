@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "0.2.7",
+  "versionCode": 10,
+  "versionName": "0.2.8",
   "apkUrl": "https://todit.web.app/todit.apk",
-  "notes": "목록 날짜별 묶음 · 임박 색(빨강→파랑) · D-Day 표시 · 작성자/담당자 구분 · 이름 성재/수린 정리"
+  "notes": "업무 목록을 촘촘하게(D-Day 색 글자·한 줄 상단), 설정에 글자 크기 추가"
 }
