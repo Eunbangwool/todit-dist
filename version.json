@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "0.2.10",
+  "versionCode": 13,
+  "versionName": "0.2.11",
   "apkUrl": "https://todit.web.app/todit.apk",
-  "notes": "「경로」 탭 추가 — 방문지 최적 순서, 내 위치로 출발, 지도에서 선택, 공유 링크, 저장·불러오기"
+  "notes": "주소 검색 키를 투딧 전용으로 교체(웹 주소 검색 정상화)"
 }
