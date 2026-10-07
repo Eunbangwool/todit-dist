@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "0.2.12",
+  "versionCode": 15,
+  "versionName": "0.2.13",
   "apkUrl": "https://todit.web.app/todit.apk",
-  "notes": "수집함을 설정 안으로 옮김(탭 정리)"
+  "notes": "경로 탭에 「사진에서 주소 읽기」(OCR) 추가 — 배송 목록·문자 캡처에서 주소를 찾아 방문지로"
 }
