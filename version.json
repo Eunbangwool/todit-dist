@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "0.2.9",
+  "versionCode": 12,
+  "versionName": "0.2.10",
   "apkUrl": "https://todit.web.app/todit.apk",
-  "notes": "가계부 탭 추가(회사 공유 — 요약·내역·자산)"
+  "notes": "「경로」 탭 추가 — 방문지 최적 순서, 내 위치로 출발, 지도에서 선택, 공유 링크, 저장·불러오기"
 }
