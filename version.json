@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "0.2.15",
+  "versionCode": 18,
+  "versionName": "0.2.16",
   "apkUrl": "https://todit.web.app/todit.apk",
-  "notes": "「아그로이드」 탭 추가 — 아그로이드 업무 메일과 카톡 「아그로이드」 메시지가 이 탭으로"
+  "notes": "「아그로이드」 탭 이름을 「사업」으로, 메일 일정에 받은 주소 표시"
 }
