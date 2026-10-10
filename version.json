@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "0.2.14",
+  "versionCode": 17,
+  "versionName": "0.2.15",
   "apkUrl": "https://todit.web.app/todit.apk",
-  "notes": "일정을 업무 ⇄ 시너지 탭으로 옮기기(일정 수정 창의 「탭」 선택)"
+  "notes": "「아그로이드」 탭 추가 — 아그로이드 업무 메일과 카톡 「아그로이드」 메시지가 이 탭으로"
 }
